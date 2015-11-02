@@ -1,0 +1,166 @@
+[ 2015-10-23T15:51:21+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:51:21+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0071s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0003s ]
+SQL: SELECT `team` FROM `team` WHERE ( belongs='良辰' )  [ RunTime:0.0021s ]
+
+[ 2015-10-23T15:51:21+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0005s ]
+
+[ 2015-10-23T15:51:31+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:51:31+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0035s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0002s ]
+SQL: SELECT `team` FROM `team` WHERE ( belongs='良辰' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:51:31+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0008s ]
+
+[ 2015-10-23T15:56:05+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:56:05+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:56:05+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0027s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0002s ]
+SQL: SELECT `team` FROM `team` WHERE ( belongs='良辰' )  [ RunTime:0.0001s ]
+
+[ 2015-10-23T15:56:06+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:56:06+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0040s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0003s ]
+SQL: SELECT `team` FROM `team` WHERE ( belongs='良辰' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:56:06+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0003s ]
+
+[ 2015-10-23T15:56:06+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:56:07+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0042s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0003s ]
+SQL: SELECT `team` FROM `team` WHERE ( belongs='良辰' )  [ RunTime:0.0003s ]
+
+[ 2015-10-23T15:56:07+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:57:15+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:57:15+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:57:15+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0018s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:57:16+08:00 ] ::1 /exhibition/index.php/Home
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-23T15:57:16+08:00 ] ::1 /exhibition/index.php/Home/Index/data
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `team` [ RunTime:0.0041s ]
+SQL: SELECT `group` FROM `group`  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:57:16+08:00 ] ::1 /exhibition/index.php/Home/Index/bg
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `bgi` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bgi` WHERE ( ID=1 )  [ RunTime:0.0002s ]
+

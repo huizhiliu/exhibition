@@ -1,0 +1,18 @@
+[ 2015-10-20T14:49:33+08:00 ] ::1 /exhibition/index.php/Admin/admin
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+ERR: 无法加载控制器:Admin
+
+[ 2015-10-20T14:49:35+08:00 ] ::1 /exhibition/index.php/Admin/admin
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+ERR: 无法加载控制器:Admin
+
+[ 2015-10-20T14:49:55+08:00 ] ::1 /exhibition/index.php/Admin/
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
+[ 2015-10-20T20:23:54+08:00 ] ::1 /exhibition/index.php/Admin/
+NOTIC: [8] Use of undefined constant name - assumed 'name' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 3 行.
+NOTIC: [8] Use of undefined constant age - assumed 'age' /Applications/XAMPP/xamppfiles/htdocs/exhibition/Application/Common/Conf/debug.php 第 4 行.
+
